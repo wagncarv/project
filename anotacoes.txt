@@ -1,0 +1,7 @@
+1 - clicar em instalar
+2 - redirecionado para Shopify, aprovar instalação
+3 - caso parove, redireciona de volta para aplicação com um código de acesso
+4 - enviar código de acesso para Shopify para obter token
+5 - capturar e gravar token
+
+weeklyhow.com/how-to-build-shopify-apps-with-php
